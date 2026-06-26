@@ -1,6 +1,6 @@
 package String;
 
-public class palindromeWithTowPointers {
+public class palindromeWithTowPointersWhileLoop {
     public static void main(String [] args){
         String s = "madam";
         int start = 0;
